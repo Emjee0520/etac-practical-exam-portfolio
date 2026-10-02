@@ -1,0 +1,5 @@
+1. Backend development is the server side of an application. This where they do the business logics, databases, and data managements.
+
+2. Examples of backend frameworks are Express by Node.js and Django by Python.
+
+3. API's are known for its use in a wide varied ways. It’s a set of rules that lets software programs communicate with each other.
